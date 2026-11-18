@@ -3,7 +3,7 @@ title: "Generation of granular media through 3D printing: a comparative evaluati
 collection: publications
 category: manuscripts
 permalink: /publication/2024-08-01-3d-printing-granular-media
-excerpt: 'Compares how accurately three widely used 3D printing techniques reproduce the morphology of natural sand grains.'
+excerpt: 'Compares how accurately three 3D printing techniques reproduce the morphology of natural sand grains.'
 date: 2024-08-01
 venue: 'Granular Matter'
 paperurl: 'https://doi.org/10.1007/s10035-024-01461-z'
