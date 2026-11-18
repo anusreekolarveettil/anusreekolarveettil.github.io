@@ -8,6 +8,4 @@ date: 2025-10-20
 location: "Barcelona, Spain"
 ---
 
-A discrete element method (DEM) study of how particle shape at the macro and meso scales affects the packing of granular assemblies in loose and dense states.
-
 Co-author: G. M. Latha
